@@ -13,6 +13,7 @@ int a = 100;
 		
 		//a=a/0;
 		
+			System.exit(1);
 		
 		return a; 
 		
